@@ -10,5 +10,7 @@ https://github.com/kubevirt/kubevirt/blob/master/cluster/examples/vm-template-fe
 https://github.com/kubevirt/demo
 
 ## Virtctl
+```bash
 export VERSION=v0.9.1
 curl -L -o virtctl https://github.com/kubevirt/kubevirt/releases/download/$VERSION/virtctl-$VERSION-linux-amd64
+```
